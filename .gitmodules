@@ -1,0 +1,8 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/NiebAnupat/ProjectSA-BN.git
+	branch = master
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/NiebAnupat/ProjectSA-FN.git
+	branch = master
